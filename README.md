@@ -16,4 +16,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiG000)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiG000&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiG000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=TiG000)](https://medium.com/@omidnikrah)
