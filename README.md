@@ -1,5 +1,5 @@
 <!-- **TiG000/TiG000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### Hi there 👋, my name is Tiger
+### Hi there 👋
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -15,3 +15,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - ⚡ Fun fact: ...
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiG000)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiG000&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiG000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
