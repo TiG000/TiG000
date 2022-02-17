@@ -20,3 +20,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
