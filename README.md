@@ -17,18 +17,3 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiG000&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiG000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://KiLien.github.io/index.xml"
