@@ -44,4 +44,9 @@ No Activity tracked this Week
 - [Is it okay to use puppeteer to pre render SPAs?](https://stackoverflow.com/questions/50207220/is-it-okay-to-use-puppeteer-to-pre-render-spas)
 - [Answer by Gautam Krishna R for Send event when time runs out Angular5](https://stackoverflow.com/questions/50190382/send-event-when-time-runs-out-angular5/50190962#50190962)
 - [Answer by Gautam Krishna R for Angular 5 - Main bundle file is too large on the development server](https://stackoverflow.com/questions/49687569/angular-5-main-bundle-file-is-too-large-on-the-development-server/49687624#49687624)
+- [Answer by Gautam Krishna R for How to push code to Github hiding the API keys?](https://stackoverflow.com/questions/44342276/how-to-push-code-to-github-hiding-the-api-keys/44342332#44342332)
+- [Answer by Gautam Krishna R for Any Git LFS Alternatives that are compatible with Heroku?](https://stackoverflow.com/questions/44160615/any-git-lfs-alternatives-that-are-compatible-with-heroku/44161616#44161616)
+- [Answer by Gautam Krishna R for How can I use dot.tk domain with GitHub Pages?](https://stackoverflow.com/questions/44081863/how-can-i-use-dot-tk-domain-with-github-pages/44099068#44099068)
+- [Answer by Gautam Krishna R for Python requests library&#39;s &#39;\t \n in response](https://stackoverflow.com/questions/43833997/python-requests-librarys-t-n-in-response/43834150#43834150)
+- [Answer by Gautam Krishna R for Image wont center when width is set](https://stackoverflow.com/questions/43828119/image-wont-center-when-width-is-set/43828183#43828183)
 <!-- STACKOVERFLOW:END -->
