@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
-          feed_list: "https://shenxianpeng.github.io/atom.xml"
+          feed_list: "https://shenxianpeng.github.io/atom.xml,https://www.cxyxiaowu.com/21370.html,https://www.ruanyifeng.com/blog/weekly/"
