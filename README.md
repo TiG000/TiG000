@@ -19,16 +19,16 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=TiG000)](https://medium.com/@omidnikrah) -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
-- [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
-- [Hi, I&#39;m Gautam krishna.R](https://dev.to/gautamkrishnar/hi-im-gautam-krishnar)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
+- [A Complete 20-Week Guide to Self-Learn Data Science Fundamentals for Free](https://towardsdatascience.com/a-complete-20-week-guide-to-self-learn-data-science-fundamentals-for-free-bf5873f5acc6?source=rss-9fc8dfce153b------2)
+- [Decoding the Top 10 Data Science Jargons For Beginners &lpar;Commonly Asked In Interviews&rpar;](https://towardsdatascience.com/decoding-the-top-10-data-science-jargons-for-beginners-commonly-asked-in-interviews-436b5afbe3c0?source=rss-9fc8dfce153b------2)
+- [Discover The Powerful Way To Self-Learn Data Science Effectively](https://towardsdatascience.com/discover-the-powerful-way-to-self-learn-data-science-effectively-8cb013535a5?source=rss-9fc8dfce153b------2)
+- [Preparing For Data Science Interview? Here is a Complete Guide To Help You Perform Well](https://towardsdatascience.com/preparing-for-data-science-interview-here-is-a-complete-guide-to-help-you-perform-well-a98d28f4a1f4?source=rss-9fc8dfce153b------2)
+- [The 10 Best Platforms and Tools To Learn Data Science From Scratch](https://towardsdatascience.com/the-10-best-platforms-and-tools-to-learn-data-science-from-scratch-1d93eef1a32?source=rss-9fc8dfce153b------2)
+- [Invaluable Data Science Lessons To Learn From The Failure of Zillow’s Flipping Business](https://towardsdatascience.com/invaluable-data-science-lessons-to-learn-from-the-failure-of-zillows-flipping-business-25fdc218a62?source=rss-9fc8dfce153b------2)
+- [How To Learn To Solve Data Science Problems Like a Pro and Become Employable](https://towardsdatascience.com/how-to-learn-to-solve-data-science-problems-like-a-pro-and-become-employable-b3fd2f4bec71?source=rss-9fc8dfce153b------2)
+- [How To Get Started and Make Best Use of Kaggle](https://towardsdatascience.com/how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6?source=rss-9fc8dfce153b------2)
+- [Non-Coder to Data Scientist! 5 Inspiring Stories and Valuable Lessons](https://towardsdatascience.com/non-coder-to-data-scientist-5-inspiring-stories-and-valuable-lessons-34f1b0c6bb04?source=rss-9fc8dfce153b------2)
+- [5 Key Skills Needed To Become a Great Data Scientist](https://towardsdatascience.com/5-key-skills-needed-to-become-a-great-data-scientist-b654be1c55bb?source=rss-9fc8dfce153b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
