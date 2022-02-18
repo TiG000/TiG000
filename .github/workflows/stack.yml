@@ -2,7 +2,7 @@ name: Latest stack overflow activity
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: 30 1/6 * * *
+    - cron: 40 1/6 * * *
   workflow_dispatch:
   
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: TiG000/TiG000@main
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
