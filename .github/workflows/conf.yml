@@ -3,7 +3,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: 30 */6 * * *
+    - cron: 10 */6 * * *
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -13,4 +13,4 @@ jobs:
       - uses: ruanyf/weekly@master
         with:
           max_post_count: 10
-          feed_list: "https://www.ruanyifeng.com/"
+          feed_list: "https://www.ruanyifeng.com/blog/"
