@@ -26,3 +26,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
