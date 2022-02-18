@@ -3,7 +3,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: 50 1/6 * * *
+    - cron: 0 14 * * *
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: TiG000/TiG000@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
           feed_list: "https://shenxianpeng.github.io/atom.xml"
