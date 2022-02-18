@@ -3,8 +3,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-  
-        - cron: "0 */6 * * 4-7"
+    - cron: "0 */6 * * 4-7"
 
 jobs:
   update-readme-with-blog:
