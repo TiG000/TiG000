@@ -19,16 +19,16 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=TiG000)](https://medium.com/@omidnikrah) -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
-- [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
-- [什么是 Go ？Go 的优势和现状。初学者应该学习 Python 还是 Go？](https://shenxianpeng.github.io/2022/01/what-is-go/)
-- [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
-- [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
-- [组织内如何评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
-- [GitHub Actions 还能这么玩？自动将发布的博客文章更新到 GitHub 个人主页](https://shenxianpeng.github.io/2021/11/special-repository/)
-- [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
-- [Polaris - 静态代码分析](https://shenxianpeng.github.io/2021/10/what-is-polaris/)
-- [Git 常用命令备忘录](https://shenxianpeng.github.io/2021/10/git-cheatsheet/)
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
+- [Hi, I&#39;m Gautam krishna.R](https://dev.to/gautamkrishnar/hi-im-gautam-krishnar)
+- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
