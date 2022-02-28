@@ -32,9 +32,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 # StackOverflow Activity
