@@ -19,6 +19,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=TiG000)](https://medium.com/@omidnikrah) -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Build a Data Science Portfolio That Can Help You Get Hired?](https://medium.com/geekculture/how-to-build-a-data-science-portfolio-that-can-help-you-get-hired-314a34d23bba?source=rss-9fc8dfce153b------2)
 - [A Complete 20-Week Guide to Self-Learn Data Science Fundamentals for Free](https://towardsdatascience.com/a-complete-20-week-guide-to-self-learn-data-science-fundamentals-for-free-bf5873f5acc6?source=rss-9fc8dfce153b------2)
 - [Decoding the Top 10 Data Science Jargons For Beginners &lpar;Commonly Asked In Interviews&rpar;](https://towardsdatascience.com/decoding-the-top-10-data-science-jargons-for-beginners-commonly-asked-in-interviews-436b5afbe3c0?source=rss-9fc8dfce153b------2)
 - [Discover The Powerful Way To Self-Learn Data Science Effectively](https://towardsdatascience.com/discover-the-powerful-way-to-self-learn-data-science-effectively-8cb013535a5?source=rss-9fc8dfce153b------2)
@@ -28,7 +29,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - [How To Learn To Solve Data Science Problems Like a Pro and Become Employable](https://towardsdatascience.com/how-to-learn-to-solve-data-science-problems-like-a-pro-and-become-employable-b3fd2f4bec71?source=rss-9fc8dfce153b------2)
 - [How To Get Started and Make Best Use of Kaggle](https://towardsdatascience.com/how-to-get-started-and-make-best-use-of-kaggle-41feb8bba2d6?source=rss-9fc8dfce153b------2)
 - [Non-Coder to Data Scientist! 5 Inspiring Stories and Valuable Lessons](https://towardsdatascience.com/non-coder-to-data-scientist-5-inspiring-stories-and-valuable-lessons-34f1b0c6bb04?source=rss-9fc8dfce153b------2)
-- [5 Key Skills Needed To Become a Great Data Scientist](https://towardsdatascience.com/5-key-skills-needed-to-become-a-great-data-scientist-b654be1c55bb?source=rss-9fc8dfce153b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
